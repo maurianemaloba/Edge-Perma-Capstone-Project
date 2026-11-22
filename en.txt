@@ -1,0 +1,19 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_ECE8B118_E7AF_0C3F_41D5_D191B7886D84.label = Aipano
+panorama_ED5FD3F5_E7AE_F3F6_41EB_6C7FFF8DAC58.label = Aipano2
+panorama_ED501329_E7AF_0C1E_41E1_0A97F821E08F.label = Aipano3
+panorama_ED501A05_E7AE_FC16_41D5_EA76A210B2F2.label = pano
+panorama_ED50586C_E7AF_1C16_41CE_BA4A6EEBB687.label = pano-2
+panorama_ED5EF7B0_E7AF_340E_41C8_525DDABF80E0.label = pano-3
+panorama_ED502596_E7A1_1433_41CE_2B61B7E73331.label = pano-4
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sierra Orchards
